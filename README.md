@@ -1,4 +1,4 @@
-# bling-mobile-app
+# vue-mobile-app
 
 > A Vue.js project
 
